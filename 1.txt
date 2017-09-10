@@ -2,3 +2,4 @@ This is a new git file!
 test diff
 <<<<<<< HEAD
 i had a new branch once！twice！
+我想使用一下stash功能
